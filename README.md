@@ -36,8 +36,11 @@ See [HOW_TO_RUN.md](HOW_TO_RUN.md) or execute the provided batch scripts:
 - Double-click `start-frontend.bat` to launch the frontend.
 
 ## Features
+   <img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/03210eb7-fde6-440e-9ab1-ff3c1708d86f" />
 
 - Solo Parent Application Management
+   <img width="1894" height="825" alt="image" src="https://github.com/user-attachments/assets/d85cefeb-d528-4037-807b-95b9338a5d98" />
+
 - Information System Dashboard
 - User Authentication
 
