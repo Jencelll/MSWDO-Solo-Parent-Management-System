@@ -1,6 +1,8 @@
 # MSWDO Solo Parent Management System
 
-This system is designed to manage Solo Parent information for MSWDO Pagsanjan. It includes a Laravel backend API and a React frontend application.
+The Solo Parent Information Management System is a specialized digital platform developed for the Municipal Social Welfare and Development Office (MSWDO) in Pagsanjan. Its primary objective is to modernize and streamline the registration and data management processes for solo parents in accordance with Republic Act 11861.
+
+This system includes a Laravel backend API and a React frontend application.
 
 ## Project Structure
 
