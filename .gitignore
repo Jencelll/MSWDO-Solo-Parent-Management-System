@@ -1,0 +1,32 @@
+# Dependency directories
+/node_modules
+/vendor
+/pagsanjan-backend/vendor
+/pagsanjan-backend/node_modules
+/pagsanjan-frontend/node_modules
+/pagsanjan-frontend/vendor
+
+# Laravel Specific
+/pagsanjan-backend/.env
+/pagsanjan-backend/public/hot
+/pagsanjan-backend/public/storage
+/pagsanjan-backend/storage/*.key
+/pagsanjan-backend/storage/framework/cache/data/*
+/pagsanjan-backend/storage/framework/sessions/*
+/pagsanjan-backend/storage/framework/testing/*
+/pagsanjan-backend/storage/framework/views/*
+/pagsanjan-backend/storage/logs/*
+
+# React/Vite Specific
+/pagsanjan-frontend/.env.local
+/pagsanjan-frontend/.env.development.local
+/pagsanjan-frontend/.env.test.local
+/pagsanjan-frontend/.env.production.local
+/pagsanjan-frontend/npm-debug.log*
+/pagsanjan-frontend/yarn-debug.log*
+/pagsanjan-frontend/yarn-error.log*
+
+# Other
+.DS_Store
+Thumbs.db
+*.log

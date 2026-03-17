@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Feature\\PhotoUploadTest::test_photo_is_persisted_to_registry_and_id_card_record":8},"times":{"Tests\\Feature\\PhotoUploadTest::test_photo_is_persisted_to_registry_and_id_card_record":0.569}}
